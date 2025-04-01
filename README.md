@@ -1,6 +1,6 @@
+Hi there 👋, I'm Ellie . As a Data Scientist, I am passionate about transforming complex data into actionable insights using statistical analysis and predictive models to drive business impact and decision making capabilities. I have over 8 years of experience in quantitative analytics to solve real-world problems in commercial Life Science R&D and academic research, and I continuously seek to learn and foster a collaborative and adaptable team environment.   
 
-Hi there 👋, I'm Ellie . As a Data Scientist, I am passionate about transforming complex data into actionable insights using statistical analysis and predictive models to drive business impact and decision making capabilities. I have over 8 years of experience in quantitative analytics to solve real-world problems and I continuously seek to learn and foster a collaborative and adaptable team environment.   
-
+### 🚀 Top Skills  
 * Proficient in data querying with **SQL**, and scripting with **Python and R**.  
 * Applying relevant statistical analysis, machine learning, and predictive models, to make sense of complex data, ID key patterns, and understand probable future outcomes.    
 * Developing reporting solutions, custom visualization, and querryable dashboarding tools for data-driven commuincation with **Shiny**.
