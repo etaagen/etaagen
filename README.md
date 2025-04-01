@@ -7,7 +7,7 @@ As a Data Scientist, I am passionate about transforming complex data into action
 * Applying relevant statistical analysis to make sense of complex data, machine learning to ID key patterns, and predictive models to understand probable future outcomes.    
 * Developing reporting solutions, custom visualization, and queryable dashboarding tools for data-driven communication with **Shiny**.
 
-### 👩‍💻 Projects
+### 👩‍💻 Project Portfolio
 
 Welcome to my portfolio, where I showcase my [projects](https://github.com/etaagen/Portfolio/blob/main/README.md).  
 
