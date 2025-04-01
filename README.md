@@ -3,7 +3,7 @@
 As a Data Scientist, I am passionate about transforming complex data into actionable insights using statistical analysis and predictive models to drive business impact and decision making capabilities. I have over 8️⃣ years of experience using data science to solve real-world problems in commercial Life Science R&D and academic research, and I continuously seek to learn and foster a collaborative and adaptable team environment.   
 
 ### 🚀 Top Skills  
-* Proficient in data querying with **SQL**, and scripting with **Python and R**.  
+* Proficient in data querying with **SQL**, and scripting with **Python** and **R**.  
 * Applying relevant statistical analysis to make sense of complex data, machine learning to ID key patterns, and predticve models to understand probable future outcomes.    
 * Developing reporting solutions, custom visualization, and querryable dashboarding tools for data-driven commuincation with **Shiny**.
 
