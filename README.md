@@ -1,8 +1,20 @@
-## Hi there 👋
-Hi there, I'm Ellie. As a Data Scientist I specialize in making sense of complex data, identifying key patterns with statistical analysis and predictive models, and communicating actionable insights with automated reports and visualizations for decision making that drives buisness impact.  
 
-* Proficient in data querying with **SQL**, and scripting and statistical analysis with **Python and R**  
-* Developing reporting solutions, custom visualization, and querryable dashboarding tools for data-driven commuincation with **Shiny**  
-* Work experience in quantitative analytics with focus on statistical modeling and machine learning to solve real-world problems with cross-functional teams (currently Data Scientist @ Bayer, previously PhD @ Cornell University)
+Hi there, I'm Ellie. As a Data Scientist, I am passionate about transforming complex data into actionable insights using statistical analysis and predictive models to drive business impact and decision making capabilities. I have over 8 years of experience in quantitative analytics to solve real-world problems and continuously seek to learn and foster a collaborative and adaptable team environment.   
 
+### 🛠️ Skills & Tools      
+* Proficient in data querying with **SQL**, and scripting with **Python and R**.  
+* Applying relevant statistical analysis and predictive models to make sense of complex data and identify key patterns.
+* Developing reporting solutions, custom visualization, and querryable dashboarding tools for data-driven commuincation with **Shiny**.
 
+### 📚 Projects
+
+Welcome to my portfolio, where I showcase my [projects](https://github.com/etaagen/Portfolio/blob/main/README.md).  
+
+### Experience  
+
+- Data Scientist @ Bayer (2022 - present)
+- PhD @ Cornell University (2017 - 2022)  
+
+### 👋 Connect with Me
+
+* [Linkedin](https://www.linkedin.com/in/ellie-taagen/)
