@@ -11,7 +11,7 @@
 
 ### Project Portfolio
 
-* While I can't share projects from my job, here are projects from my Ph.D. and some smaller scale projects that showcase my data skills: [portfolio](https://github.com/etaagen/Portfolio/blob/main/README.md).  
+* While I can't share projects from my job, here is research from my Ph.D. and some smaller scale projects that showcase my data skills: [portfolio](https://github.com/etaagen/Portfolio/blob/main/README.md).  
 
 ***
 
