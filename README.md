@@ -5,7 +5,7 @@
 - 🚀 I am proficient in data querying with **SQL**, and scripting with **Python** and **R** (but I like learning other stuff, too).  
 - 🧠 I get curious about designing experiments, applying relevant statistical analysis to make sense of complex data, using machine learning to ID key patterns, and leveraging predictive models to understand probable future outcomes.  
 - 🎨 I get creative developing custom visualization and dashboards for data-driven communication with tools like **ggplot** and **Shiny**.  
-- 🤗 I enjoy teamwork and interdisciplinary collaborations - let's connect on [Linkedin](https://www.linkedin.com/in/ellie-taagen/)!  
+- 🤗 I enjoy problem solving with teamwork and interdisciplinary collaborations - let's connect on [Linkedin](https://www.linkedin.com/in/ellie-taagen/)!  
   
 ***  
 
