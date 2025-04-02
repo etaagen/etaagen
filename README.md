@@ -11,13 +11,13 @@
 
 ### Project Portfolio
 
-* While I can't share projects from my job, here are some smaller scale projects that showcase my data skills: [portfolio](https://github.com/etaagen/Portfolio/blob/main/README.md).  
+* While I can't share projects from my job, here are projects from my Ph.D. and some smaller scale projects that showcase my data skills: [portfolio](https://github.com/etaagen/Portfolio/blob/main/README.md).  
 
 ***
 
 ###  Experience  
 
 - Data Scientist @ Bayer (2022 - present)
-- PhD @ Cornell University (2017 - 2022)  
+- Ph.D. @ Cornell University (2017 - 2022)  
 
 
