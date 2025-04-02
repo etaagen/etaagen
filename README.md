@@ -4,8 +4,8 @@ As a Data Scientist, I am passionate about transforming complex data into action
 
 ### 🚀 Top Skills  
 * Proficient in data querying with **SQL**, and scripting with **Python** and **R**.  
-* Applying relevant statistical analysis to make sense of complex data, machine learning to ID key patterns, and predictive models to understand probable future outcomes.    
-* Developing reporting solutions, custom visualization, and queryable dashboarding tools for data-driven communication with tools like **ggplot** and **Shiny**.
+* Designing experiments, applying relevant statistical analysis to make sense of complex data, using machine learning to ID key patterns, and leveraging predictive models to understand probable future outcomes.    
+* Developing custom visualization and queryable dashboarding tools for data-driven communication with tools like **ggplot** and **Shiny**.
 
 ### 👩‍💻 Project Portfolio
 
